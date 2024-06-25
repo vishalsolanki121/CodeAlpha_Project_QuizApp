@@ -1,4 +1,4 @@
-# language_learning
+# Quiz App
 
 A new Flutter project.
 
